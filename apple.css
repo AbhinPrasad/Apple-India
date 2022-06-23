@@ -1,0 +1,244 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 45px;
+    background:rgb(104, 91, 91);
+    position: fixed;
+    opacity: 50%;
+    
+    
+}
+.icon{
+    height: 17px;
+    padding-left: 150px;
+    padding-top: 13px
+}
+.ul-header{
+    list-style: none;
+    padding-left: 200px;
+    margin-top: -21px;
+
+   
+}
+li{
+    display: inline;
+    padding: 13px;
+    font-size: 13px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+
+
+}
+.search-icon {
+    height: 18px;
+    float: right;
+    margin-right: 265px;
+    margin-top: -33px;
+    cursor: pointer;
+    
+    
+
+}
+.bag{
+    float: right;
+    margin-right: 206px;
+    margin-top: -46px;
+    cursor: pointer;
+}
+.tab1-img{
+    width: 100%;
+    height: 590px;
+    cursor: pointer;
+    
+}
+.headline{
+    margin-top: -380px;
+    margin-left: 225px;
+    font-size: 53px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(213, 209, 204);
+    cursor: pointer;
+    
+
+}
+.text1{
+    padding-left: 300px;
+    margin-top: -15px;
+    color: #86868b;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+}
+.link1{
+    margin-left: 270px;
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(82, 177, 255);
+}
+.link1:hover{
+    text-decoration: underline;
+}
+.link2{
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(82, 177, 255);
+    margin-left: 40px;
+
+}
+.link2:hover{
+    text-decoration: underline;
+}
+
+
+.tab2-img{
+    width: 100%;
+    height: 590px;
+    cursor: pointer;
+    padding-top: 222px;
+    
+    
+
+}
+.headline2{
+    font-size: 53px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -550px;
+    margin-left: 396px;
+    cursor: pointer;
+
+
+}
+.inner-img{
+    height: 65px;
+    margin-left: 480px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.text2{
+    padding-left: 483px;
+    margin-top: 4px;
+    color: #86868b;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+}
+.link3{
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(82, 177, 255);
+    margin-left: 496px;
+
+}
+.link3:hover{
+    text-decoration: underline;
+
+
+}
+.link4{
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(82, 177, 255);
+    margin-left: 45px;
+
+}
+.link4:hover{
+    text-decoration: underline;
+}
+.tab3-img{
+    width: 100%;
+    height: 590px;
+    padding-top: 339px;
+    cursor: pointer;
+
+}
+.headline3{
+    margin-top: -566px;
+    margin-left: 485px;
+    font-size: 53px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(213, 209, 204);
+    cursor: pointer;
+    
+
+}
+.text3{
+    color: rgb(213, 209, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 470px;
+    font-size: 29px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.tab4{
+    width: 100%;
+    height: 100vh;
+    
+}
+.tab4-img1{
+    width: 50%;
+    height: 590px;
+    display: flex;
+    margin-top: 459px;
+    border-style: double;
+    
+    
+
+}
+
+.tab4-img2{
+    width: 50%;
+    height: 590px;
+    display: flex;
+    margin-top: -151px;
+    float: right; 
+    border-style: double;
+   
+
+    
+
+}
+.headline4{
+    margin-top: -566px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(213, 209, 204);
+    cursor: pointer;
+
+}
+.text4{
+    color: rgb(213, 209, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 265px;
+    font-size: 29px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    margin-top: -28px;
+    cursor: pointer;
+
+}
+.footer{
+    padding: 0 240px;
+    background-color:#151616;
+
+}
+.list{
+    font-size: small;
+    color: grey;
+    list-style: none;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+
+
+
+
+
+
+    
